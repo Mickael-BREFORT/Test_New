@@ -3,6 +3,8 @@
 # Chargement d'une table de données depuis mon bucket personnel #
 #---------------------------------------------------------------#
 
+# test d'une modification !!
+
 # Cf https://www.book.utilitr.org/sspcloud.html  (droits daccès au s3)
 source("credentials.R")
 
