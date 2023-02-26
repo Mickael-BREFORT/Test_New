@@ -4,7 +4,7 @@
 #---------------------------------------------------------------#
 
 # test d'une modification !!
-# modif2 !!
+# modif2 !! 
 
 df <- 
   aws.s3::s3read_using(
