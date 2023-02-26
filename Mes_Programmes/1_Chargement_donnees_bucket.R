@@ -5,6 +5,7 @@
 
 # test d'une modification !!
 # modif2 !! 
+# modif3 !!
 
 df <- 
   aws.s3::s3read_using(
@@ -15,6 +16,10 @@ df <-
   )
 
 readr::write_csv2(df, "individu_reg.csv")
+
+
+
+
 
 library(tidyverse)
 
